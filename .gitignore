@@ -53,6 +53,7 @@ c++/cppmd/md/.vscode/
 __pycache__/
 *.pyc
 
+
 # vtk
 *.vtk
 *.vtp
@@ -60,12 +61,16 @@ __pycache__/
 
 # vscode
 c++/cppmd/md/build/*
+c++/cppmd.egg-info/*
+c++/build/*
 
 # exception to the rule
 !c++/cppmd/md/build/.gitkeep 
 
 # vscode
 cuda/gpumd/md/build/*
+cuda/gpumd.egg-info/*
+cuda/build/*
 
 # exception to the rule
 !cuda/gpumd/md/build/.gitkeep 
