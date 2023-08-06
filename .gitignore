@@ -60,6 +60,10 @@ __pycache__/
 *.vtu
 
 # vscode
+Python/dist
+Python/pymd.egg-info/*
+
+# vscode
 c++/cppmd/md/build/*
 c++/cppmd.egg-info/*
 c++/build/*
